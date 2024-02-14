@@ -1,0 +1,12 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	mappedReads | SRR8668759	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/mappedReads/SRR8668759.log
+Kallisto	all_sections	mappedReads | SRR8668771	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/mappedReads/SRR8668771.log
+Kallisto	all_sections	mappedReads | SRR8668758	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/mappedReads/SRR8668758.log
+Kallisto	all_sections	mappedReads | SRR8668772	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/mappedReads/SRR8668772.log
+Kallisto	all_sections	mappedReads | SRR8668773	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/mappedReads/SRR8668773.log
+Kallisto	all_sections	mappedReads | SRR8668774	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/mappedReads/SRR8668774.log
+Kallisto	all_sections	mappedReads | SRR8668756	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/mappedReads/SRR8668756.log
+Kallisto	all_sections	mappedReads | SRR8668757	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/mappedReads/SRR8668757.log
+Kallisto	all_sections	mappedReads | SRR8668755	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/mappedReads/SRR8668755.log
+Kallisto	all_sections	mappedReads | SRR8668769	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/mappedReads/SRR8668769.log
+FastQC	all_sections	SRR8668755_1M_subsample	/Users/madisonwahlsten/Documents/Graduate School/Class/DIYTranscriptomics/data/SRR8668755_1M_subsample_fastqc.zip

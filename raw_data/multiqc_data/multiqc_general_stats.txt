@@ -1,0 +1,12 @@
+Sample	Kallisto_mqc-generalstats-kallisto-percent_aligned	Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-median_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+SRR8668755_1M_subsample			34.98187394271703	50.0	74.479287	75	20.0	1000000.0
+mappedReads | SRR8668755	52.7441707866651	47428272.0						
+mappedReads | SRR8668756	68.99328990136637	58288191.0						
+mappedReads | SRR8668757	48.74622804489266	46362615.0						
+mappedReads | SRR8668758	62.223171406245015	18767491.0						
+mappedReads | SRR8668759	48.11009124681947	2561286.0						
+mappedReads | SRR8668769	67.62386419352843	63736528.0						
+mappedReads | SRR8668771	52.16487503045051	33613239.0						
+mappedReads | SRR8668772	54.34182763466996	37050207.0						
+mappedReads | SRR8668773	65.43174695477457	45789217.0						
+mappedReads | SRR8668774	58.96771742487593	78655820.0						
