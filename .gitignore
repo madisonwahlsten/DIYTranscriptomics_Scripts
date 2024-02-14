@@ -22,12 +22,15 @@
 *fa
 *zip
 *index
+HS*
+*log
 
 # Output files from R CMD check
 /*.Rcheck/
 
 # RStudio files
 .Rproj.user/
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -48,3 +51,6 @@ vignettes/*.pdf
 rsconnect/
 .Rproj.user
 inst/doc
+
+# DS Store from Mac
+.DS_Store
