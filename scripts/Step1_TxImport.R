@@ -98,7 +98,7 @@ library(tximport) # package for getting Kallisto results into R
 library(ensembldb) #helps deal with ensembl
 library(EnsDb.Hsapiens.v86) #replace with your organism-specific database package
 targets <- read_tsv("studydesign.txt")# read in your study design
-path <- file.path(targets$sample, "abundance.tsv") # set file paths to your mapped data
+path <- file.path("kallisto_outputs", targets$sample, "abundance.tsv") # set file paths to your mapped data
 Tx <- transcripts(EnsDb.Hsapiens.v86, columns=c("tx_id", "gene_name"))
 Tx <- as_tibble(Tx)
 Tx <- dplyr::rename(Tx, target_id = tx_id)
